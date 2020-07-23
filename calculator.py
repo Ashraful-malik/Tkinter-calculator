@@ -33,7 +33,7 @@ def click_cutto_fun(event):
             Error="Error..."
             text_fild.delete(0,END)
             text_fild.insert(0,Error)
-            # showerror("Error",e)
+            
 
 
         return
